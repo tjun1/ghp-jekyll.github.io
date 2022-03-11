@@ -29,6 +29,7 @@ baseurl: "/ghp-jekyll.github.io"
 url: "https://tjun1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+timezone: Asia/Tokyo
 
 # Build settings
 theme: minima
